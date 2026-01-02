@@ -1,0 +1,36 @@
+name: USFetal
+
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.9
+  - pip
+
+  # Core scientific stack
+  - numpy=1.26.4
+  - scipy
+  - scikit-image
+  - scikit-learn
+  - pandas
+  - matplotlib
+
+  # PyTorch + CUDA
+  - pytorch
+  - pytorch-cuda=12.4
+  - torchvision
+  - torchaudio
+
+  # Pip-installed packages
+  - pip:
+      - nibabel
+      - einops
+      - torchmetrics
+      - tensorboard
+      - monai
+      - opencv-python-headless
+      - wandb
+      - tabulate

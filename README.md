@@ -114,7 +114,7 @@ python traditional/main.py \
 
 The SSL framework supports scan-specific self-supervised training and inference.
 ```
-python ssl_scan_specific/scripts/train.py \
+python ssl_scan_specific/scripts/train.py 
 
 ```
 During training:
@@ -127,7 +127,7 @@ During training:
 Run inference
 
 ```
-python ssl_scan_specific/scripts/inference.py \
+python ssl_scan_specific/scripts/inference.py 
 ```
 
 During inference:

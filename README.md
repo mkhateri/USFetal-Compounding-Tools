@@ -198,10 +198,11 @@ Results are automatically saved under <output_dir> with .csv, .tex, and .txt for
 🙏 If you find this toolbox useful in your work, please cite:
 
 ```bibtex
-@article{khateri2025usfetal,
-  title   = {{USFetal}: Tools for Fetal Brain Ultrasound Compounding},
-  author  = {Khateri, Mohammad and Ghahremani, Morteza and Valencia Vasquez, Sergio and Jaimes, Camilo and Sierra, Alejandra and Tohka, Jussi and Grant, P. Ellen and Karimi, Davood},
-  year    = {2026}
+@article{khateri2026usfetal,
+  title={USFetal: Tools for Fetal Brain Ultrasound Compounding},
+  author={Khateri, Mohammad and Ghahremani, Morteza and Valencia, Sergio and Jaimes, Camilo and Sierra, Alejandra and Tohka, Jussi and Grant, P Ellen and Karimi, Davood},
+  journal={arXiv preprint arXiv:2601.06726},
+  year={2026}
 }
 ```
 

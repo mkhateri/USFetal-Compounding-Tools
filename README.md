@@ -1,9 +1,6 @@
 # USFetal: Tools for Fetal Brain Ultrasound Compounding
-👉 [arXiv:2601.06726](https://arxiv.org/abs/2601.06726)
-
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![arXiv](https://img.shields.io/badge/arXiv-2601.06726-b31b1b.svg)](https://arxiv.org/abs/2601.06726)
-
 
 ---
 

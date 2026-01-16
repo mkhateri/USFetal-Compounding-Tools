@@ -1,6 +1,7 @@
 # USFetal: Tools for Fetal Brain Ultrasound Compounding
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![arXiv](https://img.shields.io/badge/arXiv-2601.06726-b31b1b.svg)](https://arxiv.org/abs/2601.06726)
 
 ---
 
@@ -9,6 +10,11 @@
 **USFetal** is an open-source toolbox designed for **fetal brain ultrasound compounding**. It integrates a variety of techniques to combine multiple 3D ultrasound volumes of the fetal brain into a single, high-quality volumetric representation.
 
 The toolbox is designed to support research, evaluation, and benchmarking of different compounding strategies under a unified and configurable framework.
+
+## Associated Paper
+
+📄 **USFetal: Tools for Fetal Brain Ultrasound Compounding**  
+👉 [Read the paper on arXiv](https://arxiv.org/abs/2601.06726)
 
 ### Supported Techniques
 

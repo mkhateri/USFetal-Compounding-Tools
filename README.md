@@ -196,7 +196,7 @@ Results are automatically saved under <output_dir> with .csv, .tex, and .txt for
 ##  Citation
 
 
-🙏 If you find this toolbox useful in your work, please cite:
+🙏 If you find this toolbox useful in your work, please consider starring the repo ⭐ and citing our paper:
 
 ```bibtex
 @article{khateri2026usfetal,

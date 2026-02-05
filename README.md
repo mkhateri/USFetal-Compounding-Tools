@@ -8,6 +8,10 @@
 
 **USFetal** is an open-source toolbox designed for **fetal brain ultrasound compounding**. It integrates a variety of techniques to combine multiple 3D ultrasound volumes of the fetal brain into a single, high-quality volumetric representation.
 
+<p align="center">
+  <img src="compounding.png" alt="Fetal Brain Ultrasound Compounding Illustration" width="600"/>
+</p>
+
 The toolbox is designed to support research, evaluation, and benchmarking of different compounding strategies under a unified and configurable framework.
 
 
@@ -21,11 +25,6 @@ The toolbox is designed to support research, evaluation, and benchmarking of dif
 #### Deep Learning Methods
 - **Self-Supervised Learning (SSL)** – Scan-specific training approach that leverages complementary information across views.
 - **Plug-and-Play (PnP)** – A training-free framework that integrates learned priors into the compounding process.
-
-
-<p align="center">
-  <img src="compounding.png" alt="Fetal Brain Ultrasound Compounding Illustration" width="600"/>
-</p>
 
 ---
 
